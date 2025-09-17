@@ -3,9 +3,9 @@
 let products = [
 
 {SKU:"SKU-001", name:"xbox", category:"electronics", price:299.00 , inventory:100       }, 
-{SKU:"SKU-002", name:"mango", category:"groceries", price: 5.00 , inventory:2000     }, 
-{SKU:"SKU-003", name:"hoodie", category:"apparel", price:19.99 , inventory:200       }, 
-{SKU:"SKU-004", name:"desk lamp", category:"household", price:49.99 , inventory:50   }, 
+{SKU:"SKU-002", name:"mango", category:"groceries", price: 5.00 , inventory:2000        }, 
+{SKU:"SKU-003", name:"hoodie", category:"apparel", price:19.99 , inventory:200          }, 
+{SKU:"SKU-004", name:"desk lamp", category:"household", price:49.99 , inventory:50      }, 
 {SKU:"SKU-005", name:"midi piano", category:"electronics", price:130.00 , inventory:55  }, 
 
 
